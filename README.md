@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @danielnesterenko
-- 👀 I’m interested in building Desktop & Mobile Applications
+- 👀 I’m interested in building Desktop & Mobile Applications.
 - 🌱 I’m currently developing my Skills in Java and Android Studio and want to learn React Native & JavaScript ASAP.
 
 <!---
