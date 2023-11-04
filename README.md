@@ -1,6 +1,7 @@
 - 👋 Hi, I’m @danielnesterenko
 - 👀 I’m interested in building Desktop & Mobile Applications.
-- 🌱 I’m currently developing my Skills in Java and Android Studio and want to learn React Native & JavaScript ASAP.
+- 🌱 I’m currently developing my skills in Java, JavaScript, Spring, Vue and relational databases.
+- 🧐 Feel free to check out my projects on GitHub. 
 
 <!---
 danielnesterenko/danielnesterenko is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
